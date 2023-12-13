@@ -1,0 +1,2 @@
+# update all containers
+0 0 * * * (cd ~/; make update) > ~/crontab_log
